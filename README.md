@@ -27,6 +27,11 @@ The objective of this project was to audit the local election results for the Co
     - Denver
     - Arapahoe
     
+ - Number and % of votes per county
+    - Jefferson, 38,855 votes, 10.5% of total votes
+    - Denver, 306,055 votes, 82.8% of total votes
+    - Arapahoe, 24,801 votes, 6.7% of total votes
+
 - Candidates who received votes:
     - Charles Casper Stockham
     - Diana DeGette
